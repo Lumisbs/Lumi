@@ -1,9 +1,5 @@
-<picture>
-  <source
-    width="100%"
-    srcset="./docs/content/public/banner-dark-1280x640.avif"
-    media="(prefers-color-scheme: dark)"
-  />
+<img width="1770" height="590" alt="Lumi" src="https://github.com/user-attachments/assets/d85cb61c-b1af-4f68-8855-60db9fb00323" />
+
   <source
     width="100%"
     srcset="./docs/content/public/banner-light-1280x640.avif"
