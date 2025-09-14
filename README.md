@@ -12,7 +12,7 @@
   <img width="250" src="./docs/content/public/banner-light-1280x640.avif" />
 </picture>
 
-<h1 align="center">Project AIRI</h1>
+<h1 align="center">Project Lumi</h1>
 
 <p align="center">Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.</p>
 
@@ -23,7 +23,6 @@
 <p align="center">
   <a href="https://deepwiki.com/Lumisbs/Lumi"><img src="https://deepwiki.com/badge.svg"></a>
   <a href="https://github.com/Lumisbs/Lumi/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Lumisbs/Lumi.svg?style=flat&colorA=080f12&colorB=1fa669"></a>
-  <a href="https://x.com/Lumisbs"><img src="https://github.com/user-attachments/assets/f4c79ad7-cf81-47fc-b44c-25f55c816d43"></a>
 </p>
 
 <p align="center">
@@ -31,16 +30,6 @@
   <a href="https://trendshift.io/repositories/14636" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14636" alt="Lumisbs%2Fairi | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </p>
 
-> Heavily inspired by [Neuro-sama](https://www.youtube.com/@Neurosama)
-
-> [!WARNING]
-> **Attention:** We **do not** have any officially minted cryptocurrency or token associated with this project. Please check the information and proceed with caution.
-
-> [!NOTE]
->
-> We've got a whole dedicated organization [@Lumisbs](https://github.com/proj-airi) for all the sub-projects born from Project AIRI. Check it out!
->
-> RAG, memory system, embedded database, icons, Live2D utilities, and more!
 
 Have you dreamed about having a cyber living being (cyber waifu / husbando, digital pet) or digital companion that could play with and talk to you?
 
@@ -51,14 +40,6 @@ With the power of modern large language models like [ChatGPT](https://chatgpt.co
 Perhaps you know [Neuro-sama](https://www.youtube.com/@Neurosama) already. She is currently the best virtual streamer capable of playing games, chatting, and interacting with you and the participants. Some also call this kind of being "digital human." **Sadly, as it's not open sourced, you cannot interact with her after her live streams go offline**.
 
 Therefore, this project, AIRI, offers another possibility here: **let you own your digital life, cyber living, easily, anywhere, anytime**.
-
-## DevLogs We Posted & Recent Updates
-
-- [DevLog @ 2025.07.18](https://Lumi.sbs/docs/blog/DevLog-2025.07.18/) on July 18, 2025
-- [DreamLog 0x1](https://Lumi.sbs/docs/blog/dreamlog-0x1/) on June 16, 2025
-- [DevLog @ 2025.06.08](https://Lumi.sbs/docs/blog/DevLog-2025.06.08/) on June 8, 2025
-- [DevLog @ 2025.05.16](https://Lumi.sbs/docs/blog/DevLog-2025.05.16/) on May 16, 2025
-- ...more on [documentation site](https://Lumi.sbs/docs)
 
 ## What's So Special About This Project?
 
