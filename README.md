@@ -17,7 +17,7 @@
 <p align="center">Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.</p>
 
 <p align="center">
- [<a href="https:///Lumi.sbs">Try it</a>] [<a href="https://github.com/Lumisbs/Lumi/blob/main/docs/README.zh-CN.md">简体中文</a>] [<a href="https://github.com/Lumisbs/Lumi/blob/main/docs/README.ja-JP.md">日本語</a>] [<a href="https://github.com/Lumisbs/Lumi/blob/main/docs/README.ru-RU.md">Русский</a>] [<a href="https://github.com/Lumisbs/Lumi/blob/main/docs/README.vi.md">Tiếng Việt</a>]
+ [<a href="https:///Lumi.sbs">Try it</a>] 
 </p>
 
 <p align="center">
