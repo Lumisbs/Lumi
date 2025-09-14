@@ -1,13 +1,3 @@
-<img width="1770" height="590" alt="Lumi" src="https://github.com/user-attachments/assets/d85cb61c-b1af-4f68-8855-60db9fb00323" />
-
-  <source
-    width="100%"
-    srcset="./docs/content/public/banner-light-1280x640.avif"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="250" src="./docs/content/public/banner-light-1280x640.avif" />
-</picture>
-
 <h1 align="center">Project Lumi</h1>
 
 <p align="center">Re-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.</p>
@@ -21,6 +11,7 @@
   <a href="https://github.com/Lumisbs/Lumi/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Lumisbs/Lumi.svg?style=flat&colorA=080f12&colorB=1fa669"></a>
 </p>
 
+<img width="1770" height="590" alt="Lumi" src="https://github.com/user-attachments/assets/d85cb61c-b1af-4f68-8855-60db9fb00323" />
 
 Have you dreamed about having a cyber living being (cyber waifu / husbando, digital pet) or digital companion that could play with and talk to you?
 
