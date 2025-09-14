@@ -21,7 +21,7 @@ With the power of modern large language models like [ChatGPT](https://chatgpt.co
 
 Perhaps you know [Neuro-sama](https://www.youtube.com/@Neurosama) already. She is currently the best virtual streamer capable of playing games, chatting, and interacting with you and the participants. Some also call this kind of being "digital human." **Sadly, as it's not open sourced, you cannot interact with her after her live streams go offline**.
 
-Therefore, this project, AIRI, offers another possibility here: **let you own your digital life, cyber living, easily, anywhere, anytime**.
+Therefore, this project, Lumi, offers another possibility here: **let you own your digital life, cyber living, easily, anywhere, anytime**.
 
 ## What's So Special About This Project?
 
@@ -30,7 +30,7 @@ Unlike the other AI driven VTuber open source projects, Lumi was built with supp
 > [!TIP]
 > Worrying about the performance drop since we are using Web related technologies?
 >
-> Don't worry, while Web browser version is meant to give an insight about how much we can push and do inside browsers, and webviews, we will never fully rely on this, the desktop version of AIRI is capable of using native [NVIDIA CUDA](https://developer.nvidia.com/cuda-toolkit) and [Apple Metal](https://developer.apple.com/metal/) by default (thanks to HuggingFace & beloved [candle](https://github.com/huggingface/candle) project), without any complex dependency managements, considering the tradeoff, it was partially powered by Web technologies for graphics, layouts, animations, and the WIP plugin systems for everyone to integrate things.
+> Don't worry, while Web browser version is meant to give an insight about how much we can push and do inside browsers, and webviews, we will never fully rely on this, the desktop version of Lumi is capable of using native [NVIDIA CUDA](https://developer.nvidia.com/cuda-toolkit) and [Apple Metal](https://developer.apple.com/metal/) by default (thanks to HuggingFace & beloved [candle](https://github.com/huggingface/candle) project), without any complex dependency managements, considering the tradeoff, it was partially powered by Web technologies for graphics, layouts, animations, and the WIP plugin systems for everyone to integrate things.
 
 This means that **Lumi is capable of running on modern browsers and devices** and even on mobile devices (already done with PWA support). This brings a lot of possibilities for us (the developers) to build and extend the power of Lumi VTuber to the next level, while still leaving the flexibilities for users to enable features that requires TCP connections or other non-Web technologies such as connecting to Discord voice channel or playing Minecraft and Factorio with friends.
 
@@ -58,7 +58,7 @@ This means that **Lumi is capable of running on modern browsers and devices** an
 > - Three.js
 > - WebXR ([checkout the another project](https://github.com/Lumisbs/chat) we have under the @Lumisbs organization)
 >
-> **If you are interested, why not introduce yourself here? [Would like to join part of us to build AIRI?](https://github.com/Lumisbs/Lumi/discussions/33)**
+> **If you are interested, why not introduce yourself here? [Would like to join part of us to build Lumi?](https://github.com/Lumisbs/Lumi/discussions/33)**
 
 ## Current Progress
 
@@ -122,7 +122,7 @@ pnpm dev
 pnpm dev:tamagotchi
 ```
 
-A Nix package for Tamagotchi is included. To run airi with Nix, first make sure to enable flakes, then run:
+A Nix package for Tamagotchi is included. To run Lumi with Nix, first make sure to enable flakes, then run:
 
 ```shell
 nix run github:Lumisbs/Lumi
@@ -210,7 +210,7 @@ flowchart TD
   StageUI("@Lumisbs/stage-ui")
   UI("@Lumisbs/ui")
 
-  subgraph AIRI
+  subgraph Lumi
     DB1 --> DBDriver --> MemoryDriver --> Memory --> Core
     UI --> StageUI --> Stage --> Core
     Core --> STT
@@ -268,7 +268,7 @@ flowchart TD
   Memory_PGVector("@Lumisbs/memory-pgvector") --> Memory
 
   style Core fill:#f9d4d4,stroke:#333,stroke-width:1px
-  style AIRI fill:#fcf7f7,stroke:#333,stroke-width:1px
+  style Lumi fill:#fcf7f7,stroke:#333,stroke-width:1px
   style UI fill:#d4f9d4,stroke:#333,stroke-width:1px
   style Stage fill:#d4f9d4,stroke:#333,stroke-width:1px
   style UI_Components fill:#d4f9d4,stroke:#333,stroke-width:1px
